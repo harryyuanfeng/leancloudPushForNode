@@ -21,6 +21,7 @@
   "homepage": "https://github.com/harryyuanfeng/leancloudPushForNode#readme",
   "dependencies": {
     "avoscloud-sdk": "^0.5.4",
+    "node-localstorage": "^0.5.0",
     "xmlhttprequest": "^1.7.0"
   }
 }
