@@ -1,6 +1,6 @@
 {
   "name": "leancloudpush",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "push module for leancloud, nodejs version",
   "main": "index.js",
   "scripts": {
