@@ -3,6 +3,9 @@
 
     npm install git://github.com/harryyuanfeng/leancloudPushForNode
 
+    或者／or
+    npm install leancloudpush
+
 #如何使用
 #
     var AV = require('avoscloud-sdk');
