@@ -1,0 +1,26 @@
+{
+  "name": "leancloudpush",
+  "version": "0.0.1",
+  "description": "push module for leancloud, nodejs version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harryyuanfeng/leancloudPushForNode.git"
+  },
+  "keywords": [
+    "leancloud"
+  ],
+  "author": "Harry Feng <2307555175@qq.com> (http://hizhangu.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harryyuanfeng/leancloudPushForNode/issues"
+  },
+  "homepage": "https://github.com/harryyuanfeng/leancloudPushForNode#readme",
+  "dependencies": {
+    "avoscloud-sdk": "^0.5.4",
+    "xmlhttprequest": "^1.7.0"
+  }
+}
