@@ -18,7 +18,7 @@
         appKey: appKey
     });
 #
-// 发送一条推送，如果不传 channels 则是给所有 channel 发送消息
+    // 发送一条推送，如果不传 channels 则是给所有 channel 发送消息
     push.send({
         // channels: ['aaa'],
         data: {LeanCloud: 123}
