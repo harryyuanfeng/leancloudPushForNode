@@ -4,8 +4,9 @@
 npm install git://github.com/harryyuanfeng/leancloudPushForNode
 
 #如何使用
-
+#
 var AV = require('avoscloud-sdk');
+#
 var push = require('leancloudpush');
 
 var appId = '4kjjc24stkt8sqkct758vc7jvv16n41m95x7n3pqcb35qteyadfasfasdfas';//换成你的appid
