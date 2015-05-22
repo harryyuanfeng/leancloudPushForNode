@@ -30,3 +30,5 @@
         }
     });
 #
+具体参考：
+https://leancloud.cn/docs/js_push.html
