@@ -6,7 +6,7 @@
  * Each engineer has a duty to keep the code elegant
  */
 
-void function(win) {
+exports.push = function(AV) {
 
     if (typeof localStorage === "undefined" || localStorage === null) {
         var LocalStorage = require('node-localstorage').LocalStorage;
@@ -21,7 +21,7 @@ void function(win) {
     var VERSION = '2.0.2';
 
     // 获取命名空间
-    var AV = require('avoscloud-sdk');
+    //var AV = require('avoscloud-sdk');
     //win.AV = AV;
 
     // AMD 加载支持
@@ -623,4 +623,4 @@ void function(win) {
         };
     };
 
-} (process);
+};
