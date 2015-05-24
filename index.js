@@ -13,10 +13,6 @@ exports.push = function(AV) {
         localStorage = new LocalStorage('./scratch');
     }
     var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
-
-    localStorage.setItem('myFirstKey', 'myFirstValue');
-    console.log(localStorage.getItem('myFirstKey'));
-
     // 当前版本
     var VERSION = '2.0.2';
 
